@@ -1,0 +1,148 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{9F36C000-F80B-4988-9B48-EB4B996EBDD9}" SchemaVersion="123">
+	<Events>
+		<WorkUnit Name="Default Work Unit" ID="{9F36C000-F80B-4988-9B48-EB4B996EBDD9}" PersistMode="Standalone">
+			<ChildrenList>
+				<Event Name="Play_E_Footsteps_WetDirt" ID="{E65CB6A2-93A1-4FCC-9409-8444A71D4055}">
+					<ChildrenList>
+						<Action Name="" ID="{9811A0ED-39BB-40F0-B9FD-B9127EF3E5B1}" ShortID="569769141">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="E_Footsteps_WetDirt" ID="{3DAF0118-C9BF-49B6-9396-EEE709163AFD}" WorkUnitID="{292C1B2D-07A0-445F-BB84-4A6EA7A27172}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Door_Open" ID="{E79EC70F-174F-48F1-A6E6-19D327DC48F1}">
+					<ChildrenList>
+						<Action Name="" ID="{402FE3D8-774C-4FD0-8765-6B63C778A84A}" ShortID="813449621">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Door_Open" ID="{8F1EBFF6-93D2-442F-9F79-487F1576FC9A}" WorkUnitID="{292C1B2D-07A0-445F-BB84-4A6EA7A27172}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Enemy_Detect" ID="{90C5F685-8EF5-48AE-A534-D7F37E7F637E}">
+					<ChildrenList>
+						<Action Name="" ID="{66432C90-F997-4CC9-AB7A-AA8B34A50543}" ShortID="769236818">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Enemy_Detect" ID="{61FD9E10-B3E9-460C-8E08-31A37983139A}" WorkUnitID="{292C1B2D-07A0-445F-BB84-4A6EA7A27172}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Enemy_Entry" ID="{34B8C5F6-1FE3-4F29-8B31-0F57095AD832}">
+					<ChildrenList>
+						<Action Name="" ID="{797A7351-90CF-476A-A84B-16E48C4EFE65}" ShortID="502554388">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Enemy_Entry" ID="{171A3444-8F4C-495B-AA67-44B707A0C527}" WorkUnitID="{292C1B2D-07A0-445F-BB84-4A6EA7A27172}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Lever" ID="{E64B630B-B08E-420C-917E-633A30F02B93}">
+					<ChildrenList>
+						<Action Name="" ID="{090E20E8-EB96-4C21-A4D0-2A5A0F122C09}" ShortID="810657351">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Lever" ID="{EE3D1594-DF6D-4768-9523-886EA9CD864D}" WorkUnitID="{292C1B2D-07A0-445F-BB84-4A6EA7A27172}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_EnemyBreath" ID="{DCE20791-E81F-4F61-8FD5-5D798E8E7095}">
+					<ChildrenList>
+						<Action Name="" ID="{A17A3D06-4ED4-4EAD-885F-A0D63943786A}" ShortID="204151410">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="EnemyBreath" ID="{2AA7E093-1247-4BA9-8A5D-793DFAFEDF44}" WorkUnitID="{292C1B2D-07A0-445F-BB84-4A6EA7A27172}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_P_Footsteps" ID="{1A5DED16-A316-4FF9-9C78-33FBD0D7F367}">
+					<ChildrenList>
+						<Action Name="" ID="{263C09D3-AB03-43B9-B135-DA20B518B3B1}" ShortID="444476931">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="P_Footsteps" ID="{E8FBA6A4-4313-405F-9EF5-F1C1027EE781}" WorkUnitID="{292C1B2D-07A0-445F-BB84-4A6EA7A27172}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Music" ID="{32281E22-27C2-4A96-AEC7-C7F85EDAD461}">
+					<ChildrenList>
+						<Action Name="" ID="{DBB5CA11-EBA8-4A3C-8DAA-6C93D78C48AD}" ShortID="227915133">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Music" ID="{2BCD5322-19F1-4C8D-B5D5-C02B80536990}" WorkUnitID="{97C62E24-75F1-4558-99C8-AD32283B526B}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_doorKnock" ID="{F083FF5C-2DF7-4854-AD94-D5E26E90497E}">
+					<ChildrenList>
+						<Action Name="" ID="{99C6B90E-468F-4862-B861-CE9B5AFFAEEE}" ShortID="579791291">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="doorKnock" ID="{0922E751-DE3B-4BA7-AE10-E834F6C96215}" WorkUnitID="{292C1B2D-07A0-445F-BB84-4A6EA7A27172}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Pause_doorKnock" ID="{39B56001-98E7-4278-B3E0-F0F4CB5FE0FD}">
+					<ChildrenList>
+						<Action Name="" ID="{7A70C4E4-8E11-4F6E-A289-4FD073622547}" ShortID="477021342">
+							<PropertyList>
+								<Property Name="ActionType" Type="int16" Value="7"/>
+								<Property Name="Scope" Type="int16" Value="1"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="doorKnock" ID="{0922E751-DE3B-4BA7-AE10-E834F6C96215}" WorkUnitID="{292C1B2D-07A0-445F-BB84-4A6EA7A27172}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_Calibration" ID="{9371E3B1-3ABE-45A1-9F19-3FD7848EF2C9}">
+					<ChildrenList>
+						<Action Name="" ID="{5CF194E5-90C1-4B04-A020-D44E383C84AD}" ShortID="145879311">
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="Calibration" ID="{2F085549-1DC0-4328-AA8F-B771E155ED2B}" WorkUnitID="{292C1B2D-07A0-445F-BB84-4A6EA7A27172}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+				<Event Name="Play_outro" ID="{42BE9371-23BC-4CFF-A1FD-05B29835EE5D}">
+					<ChildrenList>
+						<Action Name="" ID="{08BA4575-5858-479D-AB83-2D41AB3CEB5A}" ShortID="218807268">
+							<PropertyList>
+								<Property Name="FadeInCurve" Type="int16" Value="0"/>
+							</PropertyList>
+							<ReferenceList>
+								<Reference Name="Target">
+									<ObjectRef Name="outro" ID="{6B1E5BBC-A120-4C00-A2A6-E109503B6F9D}" WorkUnitID="{292C1B2D-07A0-445F-BB84-4A6EA7A27172}"/>
+								</Reference>
+							</ReferenceList>
+						</Action>
+					</ChildrenList>
+				</Event>
+			</ChildrenList>
+		</WorkUnit>
+	</Events>
+</WwiseDocument>

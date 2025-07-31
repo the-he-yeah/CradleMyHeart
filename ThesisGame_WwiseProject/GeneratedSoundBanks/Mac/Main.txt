@@ -1,0 +1,62 @@
+Event	ID	Name			Wwise Object Path	Notes
+	9035486	Play_Calibration			\Default Work Unit\Play_Calibration	
+	192556355	Play_Enemy_Entry			\Default Work Unit\Play_Enemy_Entry	
+	431014199	Play_outro			\Default Work Unit\Play_outro	
+	543223178	Play_doorKnock			\Default Work Unit\Play_doorKnock	
+	643576792	Play_Enemy_Detect			\Default Work Unit\Play_Enemy_Detect	
+	1660008929	Play_Door_Open			\Default Work Unit\Play_Door_Open	
+	1738249236	Play_EnemyBreath			\Default Work Unit\Play_EnemyBreath	
+	1896114910	Play_P_Footsteps			\Default Work Unit\Play_P_Footsteps	
+	1900919716	Pause_doorKnock			\Default Work Unit\Pause_doorKnock	
+	2932040671	Play_Music			\Default Work Unit\Play_Music	
+	3196500978	Play_Lever			\Default Work Unit\Play_Lever	
+	3953117089	Play_E_Footsteps_WetDirt			\Default Work Unit\Play_E_Footsteps_WetDirt	
+
+Switch Group	ID	Name			Wwise Object Path	Notes
+	3806491964	P_Footstep			\Default Work Unit\P_Footstep	
+
+Switch	ID	Name	Switch Group			Notes
+	2058049674	Wood	P_Footstep			
+	2195636714	Dirt	P_Footstep			
+
+State Group	ID	Name			Wwise Object Path	Notes
+	2719039974	Affected_States			\Default Work Unit\Affected_States	
+
+State	ID	Name	State Group			Notes
+	748895195	None	Affected_States			
+	1747842238	Moderate	Affected_States			
+	2286778635	Excite	Affected_States			
+	3551080421	Relax	Affected_States			
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	3445884	P_Footsteps_Wood_6	C:\Thesis Game\Cradle My Heart\ThesisGame_WwiseProject\.cache\62\{6221E9EF-0DCD-FF70-EB2A-7885DF00E3EB}.wem		\Actor-Mixer Hierarchy\Default Work Unit\P_Footsteps\P_Footsteps_Wood\P_Footsteps_Wood_6		110580
+	18246828	E_Footsteps_WetDirt_4	C:\Thesis Game\Cradle My Heart\ThesisGame_WwiseProject\.cache\66\{66BCB590-FA70-9612-49CC-095D1527BCFA}.wem		\Actor-Mixer Hierarchy\Default Work Unit\E_Footsteps_WetDirt\E_Footsteps_WetDirt_4		69076
+	52390879	P_Footsteps_Dirt_2	C:\Thesis Game\Cradle My Heart\ThesisGame_WwiseProject\.cache\1B\{1B0BD4CA-E64A-2C0D-0DD7-31D005C513B3}.wem		\Actor-Mixer Hierarchy\Default Work Unit\P_Footsteps\P_Footsteps_Dirt\P_Footsteps_Dirt_2		77916
+	64314836	outro	C:\Thesis Game\Cradle My Heart\ThesisGame_WwiseProject\.cache\C5\{C596C7FD-5E0D-B239-729A-EA2A03E734A9}.wem		\Actor-Mixer Hierarchy\Default Work Unit\outro		2116896
+	96437878	Enemy_Detect	C:\Thesis Game\Cradle My Heart\ThesisGame_WwiseProject\.cache\AF\{AF0FF7D8-90B0-AC3D-6090-F9E83EB88F22}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Enemy_Detect		264696
+	101458025	moderate	C:\Thesis Game\Cradle My Heart\ThesisGame_WwiseProject\.cache\26\{26387FAB-5595-1631-D1D6-6A9FBA0B02FA}.wem		\Interactive Music Hierarchy\Default Work Unit\moderateToExcite\moderate		14817696
+	141413838	P_Footsteps_Wood_3	C:\Thesis Game\Cradle My Heart\ThesisGame_WwiseProject\.cache\1E\{1EC3D023-C424-8E20-9240-30ADE693F689}.wem		\Actor-Mixer Hierarchy\Default Work Unit\P_Footsteps\P_Footsteps_Wood\P_Footsteps_Wood_3		157536
+	194137616	P_Footsteps_Wood_4	C:\Thesis Game\Cradle My Heart\ThesisGame_WwiseProject\.cache\89\{89E0160F-F1E7-E723-233C-6824972F67A6}.wem		\Actor-Mixer Hierarchy\Default Work Unit\P_Footsteps\P_Footsteps_Wood\P_Footsteps_Wood_4		131296
+	196994134	P_Footsteps_Wood_1	C:\Thesis Game\Cradle My Heart\ThesisGame_WwiseProject\.cache\C7\{C77DA68B-407B-17DB-0163-EAD6051ECE71}.wem		\Actor-Mixer Hierarchy\Default Work Unit\P_Footsteps\P_Footsteps_Wood\P_Footsteps_Wood_1		107320
+	232095818	P_Footsteps_Wood_5	C:\Thesis Game\Cradle My Heart\ThesisGame_WwiseProject\.cache\6F\{6FA5BE3F-AA0E-F9F5-1B30-26C4B88C743C}.wem		\Actor-Mixer Hierarchy\Default Work Unit\P_Footsteps\P_Footsteps_Wood\P_Footsteps_Wood_5		169664
+	257799824	P_Footsteps_Dirt_5	C:\Thesis Game\Cradle My Heart\ThesisGame_WwiseProject\.cache\84\{84359CA8-8839-8120-A999-4714111021AF}.wem		\Actor-Mixer Hierarchy\Default Work Unit\P_Footsteps\P_Footsteps_Dirt\P_Footsteps_Dirt_5		47672
+	265021843	toRelax	C:\Thesis Game\Cradle My Heart\ThesisGame_WwiseProject\.cache\71\{717D4FBF-F202-D933-4DCB-CFFBBC77A2D5}.wem		\Interactive Music Hierarchy\Default Work Unit\moderateToRelax\toRelax		18522096
+	314703405	Enemy_Entry	C:\Thesis Game\Cradle My Heart\ThesisGame_WwiseProject\.cache\16\{160465DE-915C-7ECD-834F-F6E2009D2749}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Enemy_Entry		340548
+	392068915	E_Footsteps_WetDirt_2	C:\Thesis Game\Cradle My Heart\ThesisGame_WwiseProject\.cache\E9\{E9402915-559D-4F42-FFAF-B28D16B3372E}.wem		\Actor-Mixer Hierarchy\Default Work Unit\E_Footsteps_WetDirt\E_Footsteps_WetDirt_2		84296
+	400667222	doorKnock	C:\Thesis Game\Cradle My Heart\ThesisGame_WwiseProject\.cache\47\{47442365-CF66-55E2-19A2-D4EB61F53456}.wem		\Actor-Mixer Hierarchy\Default Work Unit\doorKnock		927932
+	435181984	excite	C:\Thesis Game\Cradle My Heart\ThesisGame_WwiseProject\.cache\D8\{D8D71DDE-CBB1-7F62-B1BC-9967E69CC5C3}.wem		\Interactive Music Hierarchy\Default Work Unit\Music\excite\excite\excite		12700896
+	535827485	Calibration	C:\Thesis Game\Cradle My Heart\ThesisGame_WwiseProject\.cache\71\{717BD4B9-B978-A951-189A-DE564B44A0DB}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Calibration		32281296
+	571385993	excite	C:\Thesis Game\Cradle My Heart\ThesisGame_WwiseProject\.cache\81\{8129CD56-D67D-910B-E169-49C316E0D8AA}.wem		\Interactive Music Hierarchy\Default Work Unit\relaxToExcite\excite		14817696
+	607068463	Door_Open	C:\Thesis Game\Cradle My Heart\ThesisGame_WwiseProject\.cache\00\{00035EC0-10C7-B450-BA17-486EFA26E560}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Door_Open		513260
+	611244767	P_Footsteps_Dirt_4	C:\Thesis Game\Cradle My Heart\ThesisGame_WwiseProject\.cache\EE\{EE886805-40E0-B569-3981-8979FDCCB61F}.wem		\Actor-Mixer Hierarchy\Default Work Unit\P_Footsteps\P_Footsteps_Dirt\P_Footsteps_Dirt_4		80004
+	614960452	E_Footsteps_WetDirt_5	C:\Thesis Game\Cradle My Heart\ThesisGame_WwiseProject\.cache\01\{011932E8-FDD1-CF81-822F-7C67376D110C}.wem		\Actor-Mixer Hierarchy\Default Work Unit\E_Footsteps_WetDirt\E_Footsteps_WetDirt_5		68260
+	670388602	E_Footsteps_WetDirt_6	C:\Thesis Game\Cradle My Heart\ThesisGame_WwiseProject\.cache\BB\{BBC16699-1B83-CF6A-A0C7-802100002102}.wem		\Actor-Mixer Hierarchy\Default Work Unit\E_Footsteps_WetDirt\E_Footsteps_WetDirt_6		88044
+	703024861	EnemyBreath	C:\Thesis Game\Cradle My Heart\ThesisGame_WwiseProject\.cache\DE\{DEF16287-9B38-4997-1520-B3C57F8C27C9}.wem		\Actor-Mixer Hierarchy\Default Work Unit\EnemyBreath		5956332
+	756005609	E_Footsteps_WetDirt_3	C:\Thesis Game\Cradle My Heart\ThesisGame_WwiseProject\.cache\77\{77EBC9FA-5760-DCE0-6B8D-6515FDCE1639}.wem		\Actor-Mixer Hierarchy\Default Work Unit\E_Footsteps_WetDirt\E_Footsteps_WetDirt_3		90084
+	786011533	P_Footsteps_Dirt_6	C:\Thesis Game\Cradle My Heart\ThesisGame_WwiseProject\.cache\99\{99B57074-5B6E-75EB-376B-6060EB07CD5D}.wem		\Actor-Mixer Hierarchy\Default Work Unit\P_Footsteps\P_Footsteps_Dirt\P_Footsteps_Dirt_6		83008
+	799047423	P_Footsteps_Dirt_1	C:\Thesis Game\Cradle My Heart\ThesisGame_WwiseProject\.cache\FC\{FC59AFDC-066A-660B-7AE3-A80B94A524B1}.wem		\Actor-Mixer Hierarchy\Default Work Unit\P_Footsteps\P_Footsteps_Dirt\P_Footsteps_Dirt_1		75964
+	813757666	P_Footsteps_Dirt_3	C:\Thesis Game\Cradle My Heart\ThesisGame_WwiseProject\.cache\83\{83EB70FD-4F13-F99C-E191-F4AE8B750944}.wem		\Actor-Mixer Hierarchy\Default Work Unit\P_Footsteps\P_Footsteps_Dirt\P_Footsteps_Dirt_3		53280
+	846893155	E_Footsteps_WetDirt_1	C:\Thesis Game\Cradle My Heart\ThesisGame_WwiseProject\.cache\B4\{B48C7570-995C-7C91-CCF2-088913E37991}.wem		\Actor-Mixer Hierarchy\Default Work Unit\E_Footsteps_WetDirt\E_Footsteps_WetDirt_1		76696
+	851548834	P_Footsteps_Wood_2	C:\Thesis Game\Cradle My Heart\ThesisGame_WwiseProject\.cache\57\{5763A1EE-BE40-BCA1-D6BA-B7D9A1BF9AC2}.wem		\Actor-Mixer Hierarchy\Default Work Unit\P_Footsteps\P_Footsteps_Wood\P_Footsteps_Wood_2		119632
+	961663179	Lever	C:\Thesis Game\Cradle My Heart\ThesisGame_WwiseProject\.cache\15\{154EB9E2-E8A5-9026-9D58-D7AB73F7655E}.wem		\Actor-Mixer Hierarchy\Default Work Unit\Lever		132396
+

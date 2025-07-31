@@ -1,0 +1,17 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: c9b33341378e3da4eb3c9224ee845830, type: 3}
+  m_Name: 97AC01B4-E5DA-4C88-B4DA-C1A33400C47F
+  m_EditorClassIdentifier: 
+  objectName: Affected_States
+  id: 2719039974
+  guid: 97AC01B4-E5DA-4C88-B4DA-C1A33400C47F

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WwiseDocument Type="WorkUnit" ID="{9720DE46-9A10-47D6-8D19-96E43FB1A347}" SchemaVersion="123">
+	<SoundBanks>
+		<WorkUnit Name="Default Work Unit" ID="{9720DE46-9A10-47D6-8D19-96E43FB1A347}" PersistMode="Standalone">
+			<ChildrenList>
+				<SoundBank Name="Main" ID="{23E921E2-DF1C-4B7B-A119-D9717AE3FC5D}">
+					<ObjectInclusionList>
+						<ObjectRef Name="Play_Lever" ID="{E64B630B-B08E-420C-917E-633A30F02B93}" WorkUnitID="{9F36C000-F80B-4988-9B48-EB4B996EBDD9}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Pause_doorKnock" ID="{39B56001-98E7-4278-B3E0-F0F4CB5FE0FD}" WorkUnitID="{9F36C000-F80B-4988-9B48-EB4B996EBDD9}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Calibration" ID="{9371E3B1-3ABE-45A1-9F19-3FD7848EF2C9}" WorkUnitID="{9F36C000-F80B-4988-9B48-EB4B996EBDD9}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_doorKnock" ID="{F083FF5C-2DF7-4854-AD94-D5E26E90497E}" WorkUnitID="{9F36C000-F80B-4988-9B48-EB4B996EBDD9}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Enemy_Detect" ID="{90C5F685-8EF5-48AE-A534-D7F37E7F637E}" WorkUnitID="{9F36C000-F80B-4988-9B48-EB4B996EBDD9}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Door_Open" ID="{E79EC70F-174F-48F1-A6E6-19D327DC48F1}" WorkUnitID="{9F36C000-F80B-4988-9B48-EB4B996EBDD9}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Music" ID="{32281E22-27C2-4A96-AEC7-C7F85EDAD461}" WorkUnitID="{9F36C000-F80B-4988-9B48-EB4B996EBDD9}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_outro" ID="{42BE9371-23BC-4CFF-A1FD-05B29835EE5D}" WorkUnitID="{9F36C000-F80B-4988-9B48-EB4B996EBDD9}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_Enemy_Entry" ID="{34B8C5F6-1FE3-4F29-8B31-0F57095AD832}" WorkUnitID="{9F36C000-F80B-4988-9B48-EB4B996EBDD9}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_EnemyBreath" ID="{DCE20791-E81F-4F61-8FD5-5D798E8E7095}" WorkUnitID="{9F36C000-F80B-4988-9B48-EB4B996EBDD9}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_E_Footsteps_WetDirt" ID="{E65CB6A2-93A1-4FCC-9409-8444A71D4055}" WorkUnitID="{9F36C000-F80B-4988-9B48-EB4B996EBDD9}" Origin="Manual" Filter="7"/>
+						<ObjectRef Name="Play_P_Footsteps" ID="{1A5DED16-A316-4FF9-9C78-33FBD0D7F367}" WorkUnitID="{9F36C000-F80B-4988-9B48-EB4B996EBDD9}" Origin="Manual" Filter="7"/>
+					</ObjectInclusionList>
+					<ObjectExclusionList/>
+					<GameSyncExclusionList/>
+				</SoundBank>
+			</ChildrenList>
+		</WorkUnit>
+	</SoundBanks>
+</WwiseDocument>

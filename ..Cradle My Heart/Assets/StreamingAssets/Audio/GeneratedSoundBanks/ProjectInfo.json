@@ -1,0 +1,36 @@
+{
+ "ProjectInfo": {
+  "Project": {
+   "Name": "ThesisGame_WwiseProject",
+   "GUID": "{DF8C69DD-4002-4806-8A89-732CC1C02159}",
+   "Generator": "2024.1.1.8691"
+  },
+  "CacheRoot": "../../../../../ThesisGame_WwiseProject/.cache",
+  "Platforms": [
+   {
+    "Name": "Mac",
+    "GUID": "{B1C34CD6-7C4C-4E22-9767-EFDC5F65CF3F}",
+    "BasePlatform": "Mac",
+    "BasePlatformGUID": "{9C6217D5-DD11-4795-87C1-6CE02853C540}",
+    "Path": "../../../../../ThesisGame_WwiseProject/GeneratedSoundBanks/Mac"
+   },
+   {
+    "Name": "Windows",
+    "GUID": "{5FD4F1C6-E9D9-49EE-96F9-8C996ACAADF3}",
+    "BasePlatform": "Windows",
+    "BasePlatformGUID": "{6E0CB257-C6C8-4C5C-8366-2740DFC441EB}",
+    "Path": "../../../../../ThesisGame_WwiseProject/GeneratedSoundBanks/Windows"
+   }
+  ],
+  "Languages": [
+   {
+    "Name": "English(US)",
+    "Id": "684519430",
+    "GUID": "{2C399F59-5F01-4946-AACF-E1096CF59E38}",
+    "Default": "true",
+    "UseAsStandIn": "true"
+   }
+  ],
+  "FileHash": "{EA4AFB38-A713-497B-3C1F-068182ACC63A}"
+ }
+}

@@ -1,0 +1,19 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 257faf84245d5434da8dc04e65955a9d, type: 3}
+  m_Name: F083FF5C-2DF7-4854-AD94-D5E26E90497E
+  m_EditorClassIdentifier: 
+  objectName: Play_doorKnock
+  id: 543223178
+  guid: F083FF5C-2DF7-4854-AD94-D5E26E90497E
+  IsInUserDefinedSoundBank: 1
+  IsAutoBankLoaded: 0
